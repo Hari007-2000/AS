@@ -1,7 +1,7 @@
 <div align="center">
   
 # Improving Bayesian Neural Networks by Adversarial Sampling
-[![Conference](http://img.shields.io/badge/AAAI-2022-4b44ce.svg)](https://aaai.org/Conferences/AAAI-22/) 
+
 
 </div>
   
